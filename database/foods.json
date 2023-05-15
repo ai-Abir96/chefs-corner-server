@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Sushi",
+    "description": "Learn about the different types of sushi, from nigiri to maki rolls, and the history and culture behind this iconic Japanese dish.",
+    "image": "https://i.ibb.co/chwLNcS/shushi.webp"
+  },
+  {
+    "id": 2,
+    "name": "Ramen",
+    "description": "Explore the world of ramen, from classic tonkotsu broth to regional variations and creative modern twists.",
+    "image": "https://i.ibb.co/Jjtf1nT/ramen.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Wagyu Beef",
+    "description": "Discover the legendary wagyu beef, its different grades and cuts, and the best ways to enjoy it in Japanese cuisine.",
+    "image": "https://i.ibb.co/CPSSHDc/waygu.webp"
+  },
+  {
+    "id": 4,
+    "name": "Tempura",
+    "description": "Find out how to make the perfect tempura, the history and evolution of this popular Japanese dish, and the best places to try it.",
+    "image": "https://i.ibb.co/pvqG91c/tempura.webp"
+  },
+  {
+    "id": 5,
+    "name": "Home Cooking",
+    "description": "Get a glimpse into the daily life and traditions of Japanese families through their home-cooked dishes, from oden to nabe hot pot.",
+    "image": "https://i.ibb.co/zsqczG7/homecook.webp"
+  }
+]

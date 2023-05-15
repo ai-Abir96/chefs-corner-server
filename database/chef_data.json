@@ -1,0 +1,296 @@
+[
+  {
+    "id": 1,
+    "chef_picture": "https://i.ibb.co/Z2zswNS/satohi.jpg",
+    "chef_name": "Satoshi Nakamura",
+    "years_of_experience": 15,
+    "total_recipies": 20,
+    "likes": 50,
+    "recipes": [
+      {
+        "id": 1,
+        "name": "Nigiri sushi",
+        "ingredients": [
+          "sushi rice",
+          "raw fish",
+          "wasabi",
+          "soy sauce",
+          "pickled ginger"
+        ],
+        "cooking_method": "Form the rice into small oblong shapes, place a piece of fish on top, and serve with wasabi, soy sauce, and pickled ginger.",
+        "rating": 4.8
+      },
+      {
+        "id": 2,
+        "name": "Kitsune udon",
+        "ingredients": [
+          "udon noodles",
+          "fried tofu",
+          "dashi stock",
+          "mirin",
+          "soy sauce"
+        ],
+        "cooking_method": "Boil the noodles, then add the fried tofu and dashi stock, and season with mirin and soy sauce.",
+        "rating": 4.5
+      },
+      {
+        "id": 3,
+        "name": "Ebi tempura",
+        "ingredients": [
+          "shrimp",
+          "flour",
+          "cornstarch",
+          "water",
+          "egg"
+        ],
+        "cooking_method": "Coat the shrimp in a batter made from flour, cornstarch, water, and egg, and deep-fry until golden brown.",
+        "rating": 4.2
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "chef_picture": "https://i.ibb.co/GdfjN14/yoko.jpg",
+    "chef_name": "Yoko Suzuki",
+    "years_of_experience": 12,
+    "total_recipies": 30,
+    "likes": 100,
+    "recipes": [
+      {
+        "id": 1,
+        "name": "Shoyu ramen",
+        "ingredients": [
+          "ramen noodles",
+          "pork belly",
+          "soy sauce",
+          "mirin",
+          "chicken broth"
+        ],
+        "cooking_method": "Boil the noodles, then top with slices of pork belly and a broth made from soy sauce, mirin, and chicken broth.",
+        "rating": 4.7
+      },
+      {
+        "id": 2,
+        "name": "Hiroshima-style okonomiyaki",
+        "ingredients": [
+          "cabbage",
+          "flour",
+          "egg",
+          "noodles",
+          "pork belly"
+        ],
+        "cooking_method": "Mix the cabbage, flour, egg, and noodles, then add slices of pork belly and cook on a griddle.",
+        "rating": 4.4
+      },
+      {
+        "id": 3,
+        "name": "Gyudon",
+        "ingredients": [
+          "beef",
+          "onion",
+          "soy sauce",
+          "mirin",
+          "rice"
+        ],
+        "cooking_method": "Cook the beef and onions in a broth made from soy sauce and mirin, then serve over a bed of rice.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "chef_picture": "https://i.ibb.co/sWvRKs8/kenjiro.jpg",
+    "chef_name": "Kenjiro Yamamoto",
+    "years_of_experience": 20,
+    "total_recipies": 25,
+    "likes": 120,
+    "recipes": [
+      {
+        "id": 1,
+        "name": "soba",
+        "ingredients": [
+          "buckwheat flour",
+          "water",
+          "dipping sauce",
+          "wasabi",
+          "scallions"
+        ],
+        "cooking_method": "Mix buckwheat flour and water, knead into a dough, roll out, and cut into noodles. Boil the noodles, then serve with a dipping sauce made from soy sauce, mirin, and scallions.",
+        "rating": 4.9
+      },
+      {
+        "id": 2,
+        "name": "Tonkatsu",
+        "ingredients": [
+          "pork loin",
+          "flour",
+          "egg",
+          "panko breadcrumbs",
+          "cabbage"
+        ],
+        "cooking_method": "Coat the pork loin in flour, egg, and panko breadcrumbs, then deep-fry until golden brown. Serve with shredded cabbage.",
+        "rating": 4.3
+      },
+      {
+        "id": 3,
+        "name": "Yakiniku",
+        "ingredients": [
+          "beef",
+          "sesame oil",
+          "soy sauce",
+          "garlic",
+          "ginger"
+        ],
+        "cooking_method": "Marinate the beef in a mixture of sesame oil, soy sauce, garlic, and ginger, then grill and serve with dipping sauces.",
+        "rating": 4.7
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "chef_picture": "https://i.ibb.co/2FHMhBT/aiko.jpg",
+    "chef_name": "Aiko Tanaka",
+    "years_of_experience": 8,
+    "total_recipies": 15,
+    "likes": 150,
+    "recipes": [
+      {
+        "id": 1,
+        "name": "Osaka-style okonomiyaki",
+        "ingredients": [
+          "cabbage",
+          "flour",
+          "egg",
+          "yam",
+          "pork belly"
+        ],
+        "cooking_method": "Mix the cabbage, flour, egg, and grated yam, then add slices of pork belly and cook on a griddle.",
+        "rating": 4.6
+      },
+      {
+        "id": 2,
+        "name": "Takoyaki",
+        "ingredients": [
+          "octopus",
+          "flour",
+          "egg",
+          "dashi stock",
+          "green onion"
+        ],
+        "cooking_method": "Mix the flour, egg, and dashi stock, then pour the batter into a takoyaki pan and add a piece of octopus and green onion to each ball. Cook until golden brown.",
+        "rating": 4.4
+      },
+      {
+        "id": 3,
+        "name": "Matcha mochi",
+        "ingredients": [
+          "sweet rice flour",
+          "matcha powder",
+          "sugar",
+          "water",
+          "cornstarch"
+        ],
+        "cooking_method": "Mix the sweet rice flour, matcha powder, sugar, and water, then steam until cooked. Roll the mochi in cornstarch to prevent sticking.",
+        "rating": 4.8
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "chef_picture": "https://i.ibb.co/C6ZhFcQ/tekeshi.jpg",
+    "chef_name": "Takeshi Nakamura",
+    "years_of_experience": 18,
+    "total_recipies": 10,
+    "likes": 200,
+    "recipes": [
+      {
+        "id": 1,
+        "name": "Chirashi sushi",
+        "ingredients": [
+          "sushi rice",
+          "raw fish",
+          "vegetables",
+          "egg",
+          "vinegar"
+        ],
+        "cooking_method": "Mix the sushi rice with vinegar, then top with slices of raw fish, vegetables, and egg.",
+        "rating": 4.7
+      },
+      {
+        "id": 2,
+        "name": "Tonkotsu ramen",
+        "ingredients": [
+          "pork bones",
+          "chicken stock",
+          "ramen noodles",
+          "pork belly",
+          "egg"
+        ],
+        "cooking_method": "Simmer pork bones and chicken stock for hours to create a flavorful broth. Serve with ramen noodles, slices of pork belly, and a soft-boiled egg.",
+        "rating": 4.9
+      },
+      {
+        "id": 3,
+        "name": "Chicken katsu curry",
+        "ingredients": [
+          "chicken breast",
+          "flour",
+          "egg",
+          "panko breadcrumbs",
+          "carrots"
+        ],
+        "cooking_method": "Coat chicken breast in flour, egg, and panko breadcrumbs, then deep-fry until golden brown. Serve with curry sauce and steamed rice.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "chef_picture": "https://i.ibb.co/YcjssSH/nobuhiro.jpg",
+    "chef_name": "Nobuhiro Yamamoto",
+    "years_of_experience": 12,
+    "total_recipies": 15,
+    "likes": 70,
+    "recipes": [
+      {
+        "id": 1,
+        "name": "Kitsune udon",
+        "ingredients": [
+          "udon noodles",
+          "dashi stock",
+          "tofu",
+          "green onion",
+          "tempura flakes"
+        ],
+        "cooking_method": "Cook the udon noodles, then serve in a bowl of dashi stock with sliced tofu, green onion, and tempura flakes.",
+        "rating": 4.5
+      },
+      {
+        "id": 2,
+        "name": "Mixed tempura",
+        "ingredients": [
+          "shrimp",
+          "asparagus",
+          "sweet potato",
+          "tempura batter mix",
+          "vegetable oil"
+        ],
+        "cooking_method": "Coat the shrimp, asparagus, and sweet potato in tempura batter, then deep-fry until crispy.",
+        "rating": 4.2
+      },
+      {
+        "id": 3,
+        "name": "Strawberry mochi",
+        "ingredients": [
+          "sweet rice flour",
+          "strawberries",
+          "sugar",
+          "water",
+          "potato starch"
+        ],
+        "cooking_method": "Mix sweet rice flour, sugar, and water to make mochi dough. Fill each mochi with a strawberry, and roll in potato starch to prevent sticking.",
+        "rating": 4.7
+      }
+    ]
+  }
+]
